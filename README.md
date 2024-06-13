@@ -1,6 +1,4 @@
 # Nuspacker-Simple
-A Nuspacker Command Creator. Creates A Working Nuspacker Command To Paste Into CMD
-
 
 Nuspacker Can be Hard To Use For Those Who Are Not Experience With CMD Commands
 
