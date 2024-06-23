@@ -7,9 +7,9 @@ This Program Creates The Correct Commands For CMD And Either Executes Commands F
 THIS PROGRAM IS COMPATIBLE WITH WINDOWS ONLY!
 
 # How To Use:
-
-- Download .EXE File Into Its Own Folder So That The .txt File Is Easily Accesible When Created
-- Launch Program
+- Download Nuspacker: https://github.com/ihaveamac/nuspacker
+- Download Nuspacker-Simple
+- Launch Nuspacker-Simple
 - Answer All Questions
 - If Using Version 2.0 Or Under:
     - Follow Created Instructions On .txt File
