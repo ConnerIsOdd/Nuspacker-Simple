@@ -2,7 +2,7 @@
 
 Nuspacker Can Be Hard To Use For Those Who Are Not Experienced With CMD Commands
 
-This Program Creates A Step-By-Step Tutorial On What Commands To Use.
+This Program Creates The Correct Commands For CMD.
 
 It Writes Tutorial To A Seperate .txt File
 
