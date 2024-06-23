@@ -7,7 +7,7 @@ This Program Creates The Correct Commands For CMD And Either Executes Commands F
 THIS PROGRAM IS COMPATIBLE WITH WINDOWS ONLY!
 
 # How To Use:
-- Download Nuspacker: https://github.com/ihaveamac/nuspacker
+- Download NUSpacker.jar From This Repo: https://github.com/ihaveamac/nuspacker
 - Download Nuspacker-Simple
 - Launch Nuspacker-Simple
 - Answer All Questions
