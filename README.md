@@ -15,5 +15,5 @@ It Writes Tutorial To A Seperate .txt File
 - Answer All Questions
 - If Using Version 2.0 Or Under:
     - Follow Created Instructions On .txt File
-- If Using Version 3.0 Or Higher:
+- If Using Version 3.0 BETA Or Higher:
     - Sit Back, Relax, And Let The Program Do The Rest! 
